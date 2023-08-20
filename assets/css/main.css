@@ -75,9 +75,8 @@ section {
 
 .section-header p {
   margin: 0;
-  font-size: 48px;
+  font-size: 38px;
   font-weight: 400;
-  font-family: var(--font-primary);
 }
 
 .section-header p span {
@@ -253,7 +252,7 @@ section {
 }
 
 .header .logo img {
-  max-height: 90px;
+  max-height: 110px;
   margin-right: 6px;
 }
 
@@ -1483,11 +1482,10 @@ section {
 }
 
 .hero h2 {
-  font-size: 64px;
+  font-size: 44px;
   font-weight: 700;
   margin-bottom: 20px;
   color: var(--color-secondary);
-  font-family: var(--font-primary);
 }
 
 .hero h2 span {
